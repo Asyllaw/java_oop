@@ -1,8 +1,7 @@
 public class Admin extends User {
 
     @Override
-    String getPermissions() {
+    String getPermission() {
         return "";
     }
-
 }
