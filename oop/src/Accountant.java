@@ -1,7 +1,7 @@
 public class Accountant extends User {
 
     @Override
-    String getPermissions() {
+    String getPermission() {
         return "";
     }
 }
